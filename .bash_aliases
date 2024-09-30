@@ -105,4 +105,3 @@ fi
 alias x=x_shell
 echo
 x
-x os setup
